@@ -1,16 +1,18 @@
-### Hi there 👋
+<div>
+    <kbd align="center" valign="center">
+        <a href="https://github.com/Charmve/computer-vision-in-action">
+            <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+        </a>
+        <u><i>These columns are <code>automatically</code> updated by <a hrerf="https://github.com/features/actions">github action</a>.</i></u> &ensp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </kbd>
+</div>
 
-<!--
-**JingzeTian/JingzeTian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><img src="src/assert/hellokittydance.gif" alt="Hi" width="42" /> 欢迎来访我的GitHub </h2>
 
-Here are some ideas to get you started:
+Hi, I’m Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University. Previously, I hold a bachelor’s degree in Mechanical Engineering from Southeast University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚩I will complete my master’s degree in June 2024 and am currently pursuing a Ph.D. opportunity (2024 fall)!
+
+I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. If you have interests in chatting with me, feel free to contact me!
+
+个人主页：http://jingzetian.com/
