@@ -2,7 +2,7 @@
 
 Hi, I’m Jingze. I am a third-year graduate student in the Department of Industrial Design at Southeast University. Previously, I hold a bachelor’s degree in Mechanical Engineering from Southeast University.
 
-🚩I will complete my master’s degree in June 2024 and am currently pursuing a Ph.D. opportunity (2024 fall)!
+🚩Currently, I am a Ph.D. student at City University of Hong Kong!
 
 I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. If you have interests in chatting with me, feel free to contact me!
 
