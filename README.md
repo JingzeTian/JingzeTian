@@ -4,4 +4,4 @@ Hi, I’m Jingze. I am a second-year PhD student in the School of Creative Media
 
 🚩 I design and evaluate user-centered interfaces using diverse technologies to enhance performance and user experience. Also, I aim to explore and improve the accessibility of immersive technologies. If you have interests in chatting with me, feel free to contact me!
 
-个人主页：http://jingzetian.com/
+个人主页：https://jingzetian.github.io/
